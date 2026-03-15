@@ -40,3 +40,10 @@ Each experiment contains multiple data sets. We use `data1/i_data.mat` to repres
 - **Ref-O**: Reflection through rain to receiver outside rain  
   **Explanation**: The signal passes through the rain region, then reflects and propagates in a rain-free area, reaching the receiver located outside the rain.  
   **Details**: Even though the receiver is outside the rain, the reflected signal still suffers from attenuation caused by the rain region.
+
+Dataset
+
+Due to the large size of the dataset, the full dataset is not hosted on GitHub.
+
+The publicly available data can be accessed :
+  https://1drv.ms/f/c/6b440dd6275abb84/IgD39yeeb6bFQahyFdhRbhxVASlQ8F4oNZxvsTzwQBTJpeQ?e=tSVhab
